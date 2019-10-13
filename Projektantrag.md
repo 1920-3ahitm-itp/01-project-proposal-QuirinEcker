@@ -41,6 +41,5 @@ Der Nao soll alle Bewegungen eines Menschen in der Virtualen Realität nachmache
 - Abteilungsleiter
 
 ## Projektrisiko
-- Kostenverluste
-- Keine Möglichkeit den nao dazu bringen genau das zu machen was man als Mensch in der Virtuellen Realität macht.
-
+- Das Projektteam hat keine Erfahrung mit 360 Grad Kameras.
+- Das Projektteam hat keine Erfahrung mit Unity.
