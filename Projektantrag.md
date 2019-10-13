@@ -1,13 +1,15 @@
 # Projektantrag
 
 ## Projektname
-Nao Steuerung mit VR
+Nao enters virtual reality
 
-## Ausganslage
+## Ausgangslage
+An der HTL Leonding gibt es mehrere humanoide Roboter (Naos). Weiters gibt es eine VR Brille. Beide Technologien werden bei öffentlichen Events, wie der Tag der offenen Tür oder die Berufsinformationsmesse in Wels, als Publikumattraktion verwendet.
 
+Nao hat ein Netzwerkinterface mit welchem er mit anderen Geräten im Netz kommunizieren kann. Die VR Brille kommuniziert über ihren Host-PC ebenfalls mit anderen Geräten. Damit ist gewährleistet, dass die beiden Geräte miteinander kommunizieren können.
 
 ## Projektziel
-Schaffen, dass der nao alles nachmacht, was man in VR macht.
+Der Nao soll alle Bewegungen eines Menschen in der Virtualen Realität nachmachen.
 
 ## Meilensteine
 1. Eine Kamera 360 Grad kamera, einprogrammieren, damit man in vr die reale welt in 360 Grad sieht
