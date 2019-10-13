@@ -36,3 +36,7 @@ Schaffen, dass der nao alles nachmacht, was man in VR macht.
 - Philipp Edlinger
 - Abteilungsleiter
 
+## Projektrisiko
+- Kostenverluste
+- Keine Möglichkeit den nao dazu bringen genau das zu machen was man als Mensch in der Virtuellen Realität macht.
+
