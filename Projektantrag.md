@@ -25,6 +25,7 @@ Der Nao soll alle Bewegungen eines Menschen in der Virtualen Realität nachmache
 ## Sachmittel
 - Nao Roboter
 - Vr Brille
+- 360 Grad Kamera
 
 ## Projektleiter
 - Quirin Ecker
