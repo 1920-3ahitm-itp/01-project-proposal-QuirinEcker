@@ -12,14 +12,15 @@ Nao hat ein Netzwerkinterface mit welchem er mit anderen Geräten im Netz kommun
 Der Nao soll alle Bewegungen eines Menschen in der Virtualen Realität nachmachen.
 
 ## Meilensteine
-1. Eine Kamera 360 Grad kamera, einprogrammieren, damit man in vr die reale welt in 360 Grad sieht
-2. Den kopf des Naos nachschwenken lasen wenn man den Kopf in vr bewegt, währendessen man im endefekt durch die 360 Grad Kamera sieht, die am Kopf montiert ist.
-3. Erste Bewgeungen des Fußes und der Hände.
-4. Vollkommene Kontrolle durch bewegungen in Vr des naos.
+|ID|Datum|Meilenstein|
+|:-:|:-:|---|
+|1.|24.12.2019|Informationen einer 360 Grad Kamera können in der VR Brille je nach Benutzerbewegung dargestellt werden.|
+|2.|2.2.2020|Der Nao kann die Kopfbewegungen des Benutzers nachmachen|
+|3.|4.4.2020|Der Nao kann einfache bewegungen des Benutzers nachmachen|
+|4.|15.6.2020|Der Nao lässt sich vollständig durch die Bewegungen des Benutzers kontrollieren|
 
 ## Kosten
-- Nao Roboter zum testen.
-- Vr Brille
+- 360 Grad Kamera
 
 ## Sachmittel
 - Nao Roboter
